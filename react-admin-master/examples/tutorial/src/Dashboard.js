@@ -7,5 +7,7 @@ export default () => (
     <Card>
         <CardHeader title="Welcome to the administration" />
         <CardContent>Lorem ipsum sic dolor amet...</CardContent>
+        <CardHeader title="My Card" />
+        <CardContent>This is my card.</CardContent>
     </Card>
 );
