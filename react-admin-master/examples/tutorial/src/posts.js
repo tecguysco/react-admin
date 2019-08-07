@@ -25,7 +25,7 @@ const PostFilter = props => (
     <Filter {...props}>
         <TextInput label="Search" source="q" alwaysOn />
         <ReferenceInput
-            label="User"
+            label="FilterUser"
             source="userId"
             reference="users"
             allowEmpty
